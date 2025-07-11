@@ -1,0 +1,25 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#1F2937"/>
+  
+  <!-- Truck body -->
+  <rect x="6" y="18" width="16" height="8" rx="1" fill="#F59E0B"/>
+  
+  <!-- Truck cabin -->
+  <rect x="22" y="16" width="6" height="10" rx="1" fill="#F59E0B"/>
+  
+  <!-- Windows -->
+  <rect x="23" y="17" width="4" height="3" rx="0.5" fill="#1F2937"/>
+  
+  <!-- Wheels -->
+  <circle cx="10" cy="26" r="2" fill="#1F2937"/>
+  <circle cx="22" cy="26" r="2" fill="#1F2937"/>
+  
+  <!-- Moving boxes -->
+  <rect x="8" y="20" width="2" height="2" fill="#EF4444"/>
+  <rect x="11" y="20" width="2" height="2" fill="#10B981"/>
+  <rect x="14" y="20" width="2" height="2" fill="#3B82F6"/>
+  
+  <!-- R logo -->
+  <text x="16" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#F59E0B">R</text>
+</svg> 
